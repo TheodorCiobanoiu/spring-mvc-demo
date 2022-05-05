@@ -6,11 +6,14 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6786fe49-5459-49e2-ac78-193499814783" name="Changes" comment="Spring MVC - Initial project setup and first test">
+    <list default="true" id="6786fe49-5459-49e2-ac78-193499814783" name="Changes" comment="Spring MVC - Section 12 done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_Web_exploded/WEB-INF/classes/com/luv2code/springdemo/mvc/HelloWorldController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_Web_exploded/WEB-INF/classes/com/luv2code/springdemo/mvc/HelloWorldController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_Web_exploded/WEB-INF/view/helloworld-form.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_Web_exploded/WEB-INF/view/helloworld-form.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_Web_exploded/WEB-INF/view/main-menu.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_Web_exploded/WEB-INF/view/main-menu.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-mvc-demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-mvc-demo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/luv2code/springdemo/mvc/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luv2code/springdemo/mvc/HomeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/spring-mvc-demo/com/luv2code/springdemo/mvc/HelloWorldController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/spring-mvc-demo/com/luv2code/springdemo/mvc/HelloWorldController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/luv2code/springdemo/mvc/HelloWorldController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luv2code/springdemo/mvc/HelloWorldController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/view/helloworld-form.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/view/helloworld-form.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/WEB-INF/view/main-menu.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/view/main-menu.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,8 +25,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="FxmlFile" />
-        <option value="Class" />
         <option value="Jsp File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -165,8 +168,16 @@
       <workItem from="1651772648431" duration="2145000" />
       <workItem from="1651774838328" duration="8000" />
       <workItem from="1651774997589" duration="153000" />
-      <workItem from="1651775779501" duration="2735000" />
+      <workItem from="1651775779501" duration="4210000" />
     </task>
+    <task id="LOCAL-00001" summary="Spring MVC - Section 12 done">
+      <created>1651778776009</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1651778776010</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,6 +200,7 @@
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
     <MESSAGE value="Spring MVC - Initial project setup and first test" />
-    <option name="LAST_COMMIT_MESSAGE" value="Spring MVC - Initial project setup and first test" />
+    <MESSAGE value="Spring MVC - Section 12 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Spring MVC - Section 12 done" />
   </component>
 </project>
