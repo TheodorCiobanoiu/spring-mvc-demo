@@ -6,7 +6,13 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6786fe49-5459-49e2-ac78-193499814783" name="Changes" comment="Spring MVC - Initial project setup and first test" />
+    <list default="true" id="6786fe49-5459-49e2-ac78-193499814783" name="Changes" comment="Spring MVC - Initial project setup and first test">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_Web_exploded/WEB-INF/view/main-menu.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_Web_exploded/WEB-INF/view/main-menu.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc-demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-mvc-demo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/luv2code/springdemo/mvc/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luv2code/springdemo/mvc/HomeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/view/main-menu.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/view/main-menu.jsp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,14 +21,14 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Jsp File" />
         <option value="FxmlFile" />
         <option value="Class" />
+        <option value="Jsp File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -46,7 +52,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "D:/udemy-spring-course-playground/spring-mvc-demo",
-    "project.structure.last.edited": "Artifacts",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
@@ -159,7 +165,7 @@
       <workItem from="1651772648431" duration="2145000" />
       <workItem from="1651774838328" duration="8000" />
       <workItem from="1651774997589" duration="153000" />
-      <workItem from="1651775779501" duration="562000" />
+      <workItem from="1651775779501" duration="2735000" />
     </task>
     <servers />
   </component>
