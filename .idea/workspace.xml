@@ -6,15 +6,8 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6786fe49-5459-49e2-ac78-193499814783" name="Changes" comment="Spring MVC - Section 12 done">
+    <list default="true" id="6786fe49-5459-49e2-ac78-193499814783" name="Changes" comment="Spring MVC - Section 13 done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_Web_exploded/WEB-INF/classes/com/luv2code/springdemo/mvc/HelloWorldController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_Web_exploded/WEB-INF/classes/com/luv2code/springdemo/mvc/HelloWorldController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_Web_exploded/WEB-INF/view/helloworld-form.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_Web_exploded/WEB-INF/view/helloworld-form.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_Web_exploded/WEB-INF/view/main-menu.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_Web_exploded/WEB-INF/view/main-menu.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/spring-mvc-demo/com/luv2code/springdemo/mvc/HelloWorldController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/spring-mvc-demo/com/luv2code/springdemo/mvc/HelloWorldController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/luv2code/springdemo/mvc/HelloWorldController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luv2code/springdemo/mvc/HelloWorldController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/view/helloworld-form.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/view/helloworld-form.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/view/main-menu.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/view/main-menu.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,6 +151,10 @@
     </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringBeansView">
+    <option name="showFiles" value="false" />
+    <option name="beanDetailsProportion" value="0.3" />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="6786fe49-5459-49e2-ac78-193499814783" name="Changes" comment="" />
@@ -168,7 +165,7 @@
       <workItem from="1651772648431" duration="2145000" />
       <workItem from="1651774838328" duration="8000" />
       <workItem from="1651774997589" duration="153000" />
-      <workItem from="1651775779501" duration="4210000" />
+      <workItem from="1651775779501" duration="4400000" />
     </task>
     <task id="LOCAL-00001" summary="Spring MVC - Section 12 done">
       <created>1651778776009</created>
@@ -177,7 +174,21 @@
       <option name="project" value="LOCAL" />
       <updated>1651778776010</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Spring MVC - Section 13 done">
+      <created>1651780046474</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1651780046474</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Spring MVC - Section 13 done">
+      <created>1651780085280</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1651780085280</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -201,6 +212,7 @@
     </ignored-roots>
     <MESSAGE value="Spring MVC - Initial project setup and first test" />
     <MESSAGE value="Spring MVC - Section 12 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Spring MVC - Section 12 done" />
+    <MESSAGE value="Spring MVC - Section 13 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Spring MVC - Section 13 done" />
   </component>
 </project>
