@@ -9,10 +9,17 @@
         <webroots>
           <root url="file://$MODULE_DIR$/web" relative="/" />
         </webroots>
+        <sourceRoots />
       </configuration>
     </facet>
     <facet type="Spring" name="Spring">
       <configuration />
+    </facet>
+    <facet type="hibernate" name="Hibernate">
+      <configuration>
+        <datasource-map />
+        <naming-strategy-map />
+      </configuration>
     </facet>
   </component>
   <component name="NewModuleRootManager" inherit-compiler-output="true">
@@ -26,5 +33,9 @@
     <orderEntry type="library" exported="" name="Spring MVC-5.2.3.RELEASE" level="project" />
     <orderEntry type="library" exported="" scope="PROVIDED" name="Tomcat 9.0.62" level="application_server_libraries" />
     <orderEntry type="library" exported="" name="javax.servlet.jstl" level="project" />
+    <orderEntry type="library" name="javax.javaee.api" level="project" />
+    <orderEntry type="library" exported="" name="Hibernate 5.4.11-5.4.11" level="project" />
+    <orderEntry type="library" exported="" name="Validation API-2.0.1.Final" level="project" />
+    <orderEntry type="library" name="Validation API-2.0.1.Final" level="project" />
   </component>
 </module>

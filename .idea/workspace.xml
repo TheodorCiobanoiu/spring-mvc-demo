@@ -5,12 +5,29 @@
       <artifact name="spring-mvc-demo:Web exploded" />
     </artifacts-to-build>
   </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6786fe49-5459-49e2-ac78-193499814783" name="Changes" comment="Spring MVC - Section 13 done">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/javax_servlet_jstl.xml" afterDir="false" />
+    <list default="true" id="6786fe49-5459-49e2-ac78-193499814783" name="Changes" comment="Spring MVC - Section 14 done">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Hibernate_5_4_11_5_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Validation_API_2_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/javax_javaee_api.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/luv2code/springdemo/mvc/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/luv2code/springdemo/mvc/CustomerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/view/customer-confirmation.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/view/customer-form.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/spring_mvc_demo_Web_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/spring_mvc_demo_Web_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_Web_exploded/WEB-INF/view/main-menu.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/spring_mvc_demo_Web_exploded/WEB-INF/view/main-menu.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/spring-mvc-demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-mvc-demo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/luv2code/springdemo/mvc/HelloWorldController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luv2code/springdemo/mvc/HelloWorldController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/luv2code/springdemo/mvc/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luv2code/springdemo/mvc/HomeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/luv2code/springdemo/mvc/SillyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luv2code/springdemo/mvc/SillyController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/luv2code/springdemo/mvc/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luv2code/springdemo/mvc/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/luv2code/springdemo/mvc/StudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luv2code/springdemo/mvc/StudentController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/WEB-INF/view/main-menu.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/view/main-menu.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +73,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/udemy-spring-course-playground/spring-mvc-demo",
+    "last_opened_file_path": "D:/spring-course-playground/lib",
     "project.structure.last.edited": "Artifacts",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -66,6 +83,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\spring-course-playground\lib" />
       <recent name="D:\udemy-spring-course-playground\spring-mvc-demo\web\WEB-INF" />
       <recent name="D:\udemy-spring-course-playground\spring-mvc-demo\lib" />
     </key>
@@ -176,7 +194,9 @@
       <workItem from="1651774997589" duration="153000" />
       <workItem from="1651775779501" duration="4400000" />
       <workItem from="1652102124668" duration="1183000" />
-      <workItem from="1652103345858" duration="4811000" />
+      <workItem from="1652103345858" duration="10283000" />
+      <workItem from="1652171914148" duration="403000" />
+      <workItem from="1652172348454" duration="2381000" />
     </task>
     <task id="LOCAL-00001" summary="Spring MVC - Section 12 done">
       <created>1651778776009</created>
@@ -199,7 +219,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651780085280</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Spring MVC - Section 14 done">
+      <created>1652108616873</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1652108616873</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -224,6 +251,7 @@
     <MESSAGE value="Spring MVC - Initial project setup and first test" />
     <MESSAGE value="Spring MVC - Section 12 done" />
     <MESSAGE value="Spring MVC - Section 13 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Spring MVC - Section 13 done" />
+    <MESSAGE value="Spring MVC - Section 14 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Spring MVC - Section 14 done" />
   </component>
 </project>
